@@ -1,0 +1,29 @@
+
+flowgaming:
+  url: http://localhost:8085
+  #Login
+  login:
+    api : 
+  getToken:
+    username : 
+    password :  
+  #Game
+  game:
+    api : 
+    lobby_url: 
+    
+API:
+  url : 
+  #getToken
+  path : 
+  username :  
+  password :  
+  grant_type : 
+  bearer :  
+  key:  
+  
+transactions:
+    #getTransacationUrl
+  accountsUrl : http://localhost:8081/consume/registeruser?
+  loginUrl : http://localhost:8081/consume/login?
+  processUrl : http://localhost:8081/consume/processtransaction?
