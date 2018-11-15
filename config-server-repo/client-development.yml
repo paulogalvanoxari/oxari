@@ -28,3 +28,11 @@ transactions:
   loginUrl : http://localhost:8081/consume/login?
   processUrl : http://localhost:8081/consume/processtransaction?
   balanceUrl : http://localhost:8081/consume/balance?
+  
+transaction:
+    #getTransacationUrl
+  account : /omegassw/getAccountDetails?
+  balance : /omegassw/getBalance?
+  login : /ps/ssw/login?
+  transact : /omegassw/processTransaction?
+  checkSession : /ips/checkSessionAlive?
