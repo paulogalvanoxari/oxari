@@ -10,7 +10,8 @@ flowgaming:
   #Game
   game:
     api : 
-    lobby_url: 
+    lobby_url:
+    game_launcher : /ps/game/GameContainer.action?
     
 API:
   url : 
