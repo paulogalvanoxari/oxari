@@ -1,6 +1,7 @@
 
 flowgaming:
-  url: http://localhost:8085
+  url: http://localhost:8081/ 
+  #http://localhost:8085
   #Login
   login:
     api : 
