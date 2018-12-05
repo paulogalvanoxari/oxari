@@ -14,8 +14,7 @@ flowgaming:
     lobby_url:
     game_launcher : /ps/game/GameContainer.action?
 flowgame:
-   brandId :12345
-   brandPassword :6789
+  brandId: 1234  
 API:
   url : 
   #getToken
