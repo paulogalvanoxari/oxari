@@ -1,6 +1,8 @@
 
 flowgaming:
   url: http://localhost:8081/
+  brandId: 1234  
+  brandPassword: 56789
   #http://localhost:8085
   #Login
   login:
