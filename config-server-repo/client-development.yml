@@ -5,6 +5,7 @@ flowgaming:
   brandPassword:
   #http://localhost:8085
   #Login
+  platformCode: FLOW
   login:
     api : 
   getToken:
