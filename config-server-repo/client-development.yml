@@ -27,6 +27,14 @@ API:
   grant_type : 
   bearer :  
   key:  
+
+PhpApi:
+  url :
+  accountDetails  :
+  balance :
+  bet :
+  rollback  :
+  result  :
   
 transactions:
     #getTransacationUrl
