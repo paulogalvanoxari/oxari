@@ -6,6 +6,7 @@ flowgaming:
   #http://localhost:8085
   #Login
   platformCode: FLOW
+  sign:
   login:
     api : 
   getToken:
