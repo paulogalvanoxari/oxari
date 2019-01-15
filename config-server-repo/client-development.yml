@@ -37,6 +37,7 @@ PhpApi:
   bet :
   rollback  :
   result  :
+  endgame :
   
 transactions:
     #getTransacationUrl
